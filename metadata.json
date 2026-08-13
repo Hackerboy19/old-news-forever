@@ -1,0 +1,6 @@
+{
+  "name": "Headless News Portal & Admin Panel",
+  "description": "Modern Headless Architecture for legacy CodeIgniter news portal with zero data loss SEO preservation, dynamic article routing, and 4-tab admin editorial forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
